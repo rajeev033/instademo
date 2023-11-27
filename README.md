@@ -1,6 +1,7 @@
 # Instagram Sign Up Page Project
 
 This project demonstrates a simple Instagram sign-up page using React.
+update
 
 ## Project Structure
 
