@@ -22,10 +22,5 @@ This project demonstrates a simple Instagram sign-up page using React.
 4. Run `npm start` to start the development server.
 5. Open your browser and go to http://localhost:3000 to view the app.
 
-## Author
 
-Your Name
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
