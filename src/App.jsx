@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <h1>Instagram Sign Up</h1>
+      <h1>Facebook Sign Up</h1>
       <SignUpForm />
     </div>
   );
